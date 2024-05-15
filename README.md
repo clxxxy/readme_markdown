@@ -1,9 +1,9 @@
-[markdown para readme](https://github.com/claysfx/readme_markdown/blob/main/README.md?plain=1)<a name="titulo"></a>
+[markdown para readme](https://github.com/clxxxy/readme_markdown/blob/main/README.md?plain=1)<a name="titulo"></a>
 =
-básico de markdown para readme de repositórios.
+Básico de markdown para readme de repositórios.
 - - -
 
-## I) tamanho de fontes: hierarquia de títulos ##
+## I) Tamanho de fontes: hierarquia de títulos ##
 
 # nível 1 - título principal #
 
@@ -35,7 +35,7 @@ nível 2
 
 - - -
 
-## II) estilos de escrita ##
+## II) Estilos de escrita ##
 
 *itálico*, **negrito**, ***itálico-negrito*** ou ~~cortado~~
 
@@ -51,7 +51,7 @@ nível 2
 
 - - -
 
-## III) links ##
+## III) Links ##
 
 link com nome: [link exemplo](http://example.com)
 
@@ -64,7 +64,7 @@ link puro: <http://example.com>
 
 - - -
 
-## IV) tabelas ##
+## IV) Tabelas ##
 
 - padrão: alinhamento central
 
@@ -100,7 +100,7 @@ conteúdo | conteúdo | conteúdo
 
 - - -
 
-## V) tópicos ##
+## V) Tópicos ##
 
 - tópico 1
   - subtópico 1.1
