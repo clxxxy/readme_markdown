@@ -3,7 +3,7 @@
 básico de markdown para readme de repositórios.
 - - -
 
-## [I) tamanho de fontes: hierarquia de títulos]() ##
+## I) tamanho de fontes: hierarquia de títulos ##
 
 # nível 1 - título principal #
 
@@ -35,7 +35,7 @@ nível 2
 
 - - -
 
-## [II) estilos de escrita]() ##
+## II) estilos de escrita ##
 
 *itálico*, **negrito**, ***itálico-negrito*** ou ~~cortado~~
 
@@ -51,7 +51,7 @@ nível 2
 
 - - -
 
-## [III) links]() ##
+## III) links ##
 
 link com nome: [link exemplo](http://example.com)
 
@@ -64,7 +64,7 @@ link puro: <http://example.com>
 
 - - -
 
-## [IV) tabelas]() ##
+## IV) tabelas ##
 
 - padrão: alinhamento central
 
@@ -100,7 +100,7 @@ conteúdo | conteúdo | conteúdo
 
 - - -
 
-## [V) tópicos]() ##
+## V) tópicos ##
 
 - tópico 1
   - subtópico 1.1
