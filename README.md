@@ -1,5 +1,4 @@
 # Markdown para README
-=
 Básico de markdown para readme de repositórios.
 - - -
 
