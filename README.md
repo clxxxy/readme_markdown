@@ -1,7 +1,6 @@
 # Markdown para README
 Básico de markdown para readme de repositórios.
 - - -
-
 ## I) Tamanho de fontes: hierarquia de títulos ##
 
 # nível 1 - título principal #
